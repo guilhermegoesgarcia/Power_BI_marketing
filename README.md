@@ -39,6 +39,8 @@ Este projeto foi desenvolvido usando as seguintes tecnologias:
 
 ## Dashboard:
 
+> EM CONSTRUÇÃO
+
 <p align="left"> 
 <a href="" target="_blank"><img src="" alt="" /></a> 
 </p>
