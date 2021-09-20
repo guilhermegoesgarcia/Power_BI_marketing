@@ -13,8 +13,8 @@ Este projeto consiste no desenvolvimento de métricas a serem disponibilizadas a
 
 
     • Total de compras realizadas durante a campanha;
-    • Valor investido e custo médio por click; 
-    • Taxa de conversão em compras pelo e-commerce e ticket médio por dispositivo ;
+    • Valor investido e custo médio por click (CPC); 
+    • Taxa de conversão em compras e ticket médio por dispositivo ;
     • Valor convertido em compras por dias
     • Retorno do investimento em publicidade por idade e gênero (ROAS).
     
