@@ -39,8 +39,7 @@ Este projeto foi desenvolvido usando as seguintes tecnologias:
 
 ## Dashboard:
 
-> EM CONSTRUÇÃO
 
 <p align="left"> 
-<a href="" target="_blank"><img src="" alt="" /></a> 
+<a href="https://raw.githubusercontent.com/guilhermegoesgarcia/Power_BI_marketing/main/resultado_Dashboard.png" target="_blank"><img src="https://raw.githubusercontent.com/guilhermegoesgarcia/Power_BI_marketing/main/resultado_Dashboard.png" alt="" /></a> 
 </p>
