@@ -7,7 +7,7 @@
 
 ## Descrição:
 
-Este projeto consiste no desenvolvimento de métricas a serem disponibilizadas ao departamento de marketing. Sendo estas repassadas através de um dashboard especificamente desenvolvido para atender as demandas para validação estratégica do negócio. Objetivando apoiar a gerência em suas tomadas de decisão, monitorando uma campanha de publicidade paga durante o mês julho de 2021.
+Este projeto consiste no desenvolvimento de métricas a serem disponibilizadas ao departamento de marketing. Sendo estas repassadas através de um dashboard especificamente desenvolvido para atender as demandas para **validação estratégica do negócio**. **Objetivando apoiar a gerência em suas tomadas de decisão**, monitorando uma campanha de publicidade paga durante o mês julho de 2021.
 
  ### Principais métricas a serem disponibilizadas
 
@@ -21,7 +21,7 @@ Este projeto consiste no desenvolvimento de métricas a serem disponibilizadas a
    
 ## Base de dados usadas:    
 
-O departamento de marketing disponibilizou 2 bases de dados no formato JSON referentes a campanha de marketing, sendo essas bases:
+O departamento de marketing disponibilizou 2 bases de dados no formato **JSON** referentes a campanha de marketing, sendo essas bases:
 
 1.Tabela_dispositivos - contém informações de acessos por dispositivo.
 2.Tabela_idade_e_genero - contém informações de pessoas que acessaram a página e realizaram ou não compras.
